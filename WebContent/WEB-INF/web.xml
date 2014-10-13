@@ -20,7 +20,7 @@
         <init-param>
             <description>Vaadin UI to display</description>
             <param-name>UI</param-name>
-            <param-value>pl.javamylove.simplevaadinapp.SimplevaadinappUI</param-value>
+            <param-value>pl.javamylove.gryliczbowewebapp.GryliczbowewebappUI</param-value>
         </init-param>
     </servlet>
     <servlet-mapping>
